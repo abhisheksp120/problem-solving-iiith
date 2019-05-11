@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-HELLO WORLDeuwfgue hadshfjj
-dhs
-fghjk
-=======
-hello 
-fgsh
->>>>>>> 7c86f0ac68dca3221a45805f1192e2735af850ee
+HELLO THERE
